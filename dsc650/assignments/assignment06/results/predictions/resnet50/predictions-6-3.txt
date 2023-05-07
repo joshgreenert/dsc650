@@ -1,0 +1,20 @@
+images\amy-hirschi-szrJ3wjzOMg-unsplash.jpg
+Predicted: [('n03291819', 'envelope', 0.21261807), ('n03642806', 'laptop', 0.08052259), ('n04118776', 'rule', 0.080337815), ('n03179701', 'desk', 0.07715189), ('n04548280', 'wall_clock', 0.07612319)]
+images\daniel-bonilla-MVZlkv_G4zQ-unsplash.jpg
+Predicted: [('n03803284', 'muzzle', 0.9223493), ('n02403003', 'ox', 0.031144816), ('n03868863', 'oxygen_mask', 0.0288808), ('n03424325', 'gasmask', 0.0042149327), ('n02092339', 'Weimaraner', 0.0014808961)]
+images\dushawn-jovic-B3fgTrrgsiI-unsplash.jpg
+Predicted: [('n02807133', 'bathing_cap', 0.4402964), ('n03710637', 'maillot', 0.17616081), ('n02892767', 'brassiere', 0.14404574), ('n03710721', 'maillot', 0.13406157), ('n02837789', 'bikini', 0.07064589)]
+images\erik-mclean-ZRns2R5azu0-unsplash.jpg
+Predicted: [('n03594945', 'jeep', 0.29830098), ('n04467665', 'trailer_truck', 0.20788671), ('n04037443', 'racer', 0.12850937), ('n03770679', 'minivan', 0.05470578), ('n03930630', 'pickup', 0.04988277)]
+images\intricate-explorer-ndmaGsIr6E4-unsplash.jpg
+Predicted: [('n13040303', 'stinkhorn', 0.13910884), ('n12985857', 'coral_fungus', 0.03833431), ('n01773549', 'barn_spider', 0.03268129), ('n01950731', 'sea_slug', 0.030921508), ('n04604644', 'worm_fence', 0.02760182)]
+images\leio-mclaren-FwdZYz0yc9g-unsplash.jpg
+Predicted: [('n03888257', 'parachute', 0.44306922), ('n03773504', 'missile', 0.17118338), ('n09472597', 'volcano', 0.10201463), ('n04552348', 'warplane', 0.10144949), ('n04008634', 'projectile', 0.056138314)]
+images\manja-vitolic-gKXKBY-C-Dk-unsplash.jpg
+Predicted: [('n02124075', 'Egyptian_cat', 0.61982495), ('n02123597', 'Siamese_cat', 0.13296269), ('n02909870', 'bucket', 0.052781727), ('n02123045', 'tabby', 0.03871195), ('n03958227', 'plastic_bag', 0.020926394)]
+images\obie-fernandez-0GFNAelMPZA-unsplash.jpg
+Predicted: [('n03250847', 'drumstick', 0.2297712), ('n04584207', 'wig', 0.129819), ('n03594734', 'jean', 0.066456355), ('n02963159', 'cardigan', 0.05127348), ('n03770439', 'miniskirt', 0.04637946)]
+images\quino-al-8gWEAAXJjtI-unsplash.jpg
+Predicted: [('n03187595', 'dial_telephone', 0.9591948), ('n03902125', 'pay-phone', 0.039810065), ('n04328186', 'stopwatch', 0.000522505), ('n04548280', 'wall_clock', 0.00010799182), ('n04069434', 'reflex_camera', 7.302062e-05)]
+images\richard-brutyo-Sg3XwuEpybU-unsplash.jpg
+Predicted: [('n02099601', 'golden_retriever', 0.9678861), ('n02099712', 'Labrador_retriever', 0.007136036), ('n02102318', 'cocker_spaniel', 0.0039223228), ('n02085620', 'Chihuahua', 0.0025483514), ('n02113624', 'toy_poodle', 0.0023548473)]

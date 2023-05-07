@@ -50,8 +50,7 @@
             "default": false
           }
         ]
-      },
-      "default": "NONE"
+      }
     },
     {
       "name": "src_airport",
@@ -120,8 +119,7 @@
           ]
         },
         "null"
-      ],
-      "default": "NONE"
+      ]
     },
     {
       "name": "dst_airport",
